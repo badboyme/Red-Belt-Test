@@ -1,0 +1,16 @@
+* {
+	font-family: sans-serif;
+	font-weight: normal;
+}
+header {
+	margin-left:80%;
+}
+a {
+	margin:5px;
+}
+h1 {
+	margin-bottom:30px;
+}
+h1, h3 {
+	margin-left:25px;
+}
